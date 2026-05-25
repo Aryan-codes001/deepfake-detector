@@ -1,0 +1,45 @@
+# ==========================
+# Python Virtual Environment
+# ==========================
+
+venv/
+env/
+
+
+# ==========================
+# React Dependencies
+# ==========================
+
+node_modules/
+
+
+# ==========================
+# Dataset Files
+# ==========================
+
+dataset/
+
+
+# ==========================
+# Uploaded Images
+# ==========================
+
+uploads/
+
+
+# ==========================
+# Python Cache
+# ==========================
+
+__pycache__/
+*.pyc
+
+
+dist/
+build/
+
+.env
+.vscode/
+
+.DS_Store
+Thumbs.db
