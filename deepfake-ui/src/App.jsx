@@ -278,7 +278,7 @@ file
 try{
 
 const res=await fetch(
-"http://127.0.0.1:8000/predict",
+"https://aryansaini07123-deepfake-detector.hf.space/predict",
 {
 method:"POST",
 body:formData

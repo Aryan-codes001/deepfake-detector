@@ -3,7 +3,7 @@ import numpy as np
 from tensorflow.keras.preprocessing import image
 print("Loading model...")
 model=tf.keras.models.load_model(
-    r"D:\Deepfake\models\best_model.keras"
+    "best_model.keras"
 )
 print("Model Loaded")
 IMG_SIZE=224
